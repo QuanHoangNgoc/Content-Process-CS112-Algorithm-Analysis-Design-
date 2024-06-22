@@ -1,4 +1,4 @@
-# Introduction
+# 🌟 Introduction
 
 - **Quan Hoang Ngoc** and **Cam-Giang Tran**
 - **Welcome to Algorithm Analysis and Design Course**
